@@ -1,6 +1,8 @@
 # vrent
 
-A new Flutter project.
+A new Flutter project. Project Flutter VRENT (Sewa Kendaraan) adalah aplikasi berbasis Flutter yang memungkinkan pengguna menemukan kendaraan yang sesuai dengan kebutuhan dan preferensi mereka. Berikut adalah beberapa fitur utama dari proyek ini:
+1. Cari Kendaraan: Pengguna dapat mencari kendaraan yang sesuai dengan kriteria yang dimasukkan, seperti jenis kendaraan, dan harga. 
+2. Detail Kendaraan: Halaman detail kendaraan menampilkan informasi lebih detay tentang kendaraan yang dipilih, termasuk spesifikasi kendaraan, dan foto. Pengguna dapat menemukan informasi lebih lanjut tentang fitur dan desain kendaraan.
 
 ## Getting Started
 
